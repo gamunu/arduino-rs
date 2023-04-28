@@ -128,9 +128,9 @@ dependencies = [
 
 [[package]]
 name = "infrared"
-version = "0.14.1"
+version = "0.14.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6d5b42e241fbd6670b93694013ced5c0e89fb1d2190cef4fc481d2bb5b491453"
+checksum = "178d1045554b6f52df07656403f4cbd316b480f673ed97cb726b34504f94bbed"
 dependencies = [
  "embedded-hal",
  "fugit",
