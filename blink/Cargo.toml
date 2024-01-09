@@ -10,7 +10,7 @@ readme = "README.md"
 panic-halt = "0.2.0"
 ufmt = "0.2.0"
 nb = "1.1.0"
-embedded-hal = "0.2.7"
+embedded-hal = "1.0.0"
 pwm-pca9685 = "0.3.1"
 infrared = "0.14.2"
 
