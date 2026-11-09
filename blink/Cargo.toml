@@ -16,7 +16,7 @@ infrared = "0.14.2"
 
 [dependencies.arduino-hal]
 git = "https://github.com/rahix/avr-hal"
-rev = "3b8f39fa2ec5e3359c7bedc33d982e75e8cc3700"
+rev = "dec22e4fa573daedc9e3346a26dee23692f1499f"
 features = ["arduino-uno"]
 
 # this lets you use `cargo fix`!
